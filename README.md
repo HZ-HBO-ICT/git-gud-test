@@ -1,2 +1,7 @@
 # git-gud
-# jochem
+
+
+
+Gianni
+Kyler
+jochem
