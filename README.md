@@ -1,5 +1,5 @@
 # git-gud
-
+guess il try it this way
 Iets toegevoegd
 <<<<<<< HEAD
 Flavio
