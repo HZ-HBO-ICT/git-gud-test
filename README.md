@@ -1,5 +1,3 @@
 # git-gud
 
-Loek
-
-Jochem
+Tom :)
