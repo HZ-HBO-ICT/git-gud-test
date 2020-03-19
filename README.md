@@ -1,5 +1,6 @@
 # git-gud
 
+Iets toegevoegd
 <<<<<<< HEAD
 Flavio
 =======
