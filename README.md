@@ -1,5 +1,3 @@
 # git-gud
-aangepast
-Loek
 
-Jochem
+aangepast
